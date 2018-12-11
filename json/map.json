@@ -1,0 +1,1130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Algeria",
+                "capital": "Algiers",
+                "timezones": "UTC+01:00",
+                "lon": "3.0",
+                "lat": "28.0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Angola",
+                "capital": "Luanda",
+                "timezones": "UTC+01:00",
+                "lon": 18.5,
+                "lat": -12.5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5,
+                    -12.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Benin",
+                "capital": "Porto-Novo",
+                "timezones": "UTC+01:00",
+                "lon": 2.3,
+                "lat": 9.5
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3,
+                    9.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Algeria",
+                "capital": "Algiers",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Angola",
+                "capital": "Luanda",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5,
+                    -12.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Benin",
+                "capital": "Porto-Novo",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3,
+                    9.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Algeria",
+                "capital": "Algiers",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3,
+                    28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Angola",
+                "capital": "Luanda",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5,
+                    -12.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Benin",
+                "capital": "Porto-Novo",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.25,
+                    9.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Botswana",
+                "capital": "Gaborone",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24,
+                    -22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "British Indian Ocean Territory",
+                "capital": "Diego Garcia",
+                "timezones": "UTC+06:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.5,
+                    -6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Burkina Faso",
+                "capital": "Ouagadougou",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2,
+                    13
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Burundi",
+                "capital": "Bujumbura",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    -3.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Cameroon",
+                "capital": "Yaound�",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12,
+                    6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Cabo Verde",
+                "capital": "Praia",
+                "timezones": "UTC-01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24,
+                    16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Central African Republic",
+                "capital": "Bangui",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21,
+                    7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Chad",
+                "capital": "N'Djamena",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19,
+                    15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Comoros",
+                "capital": "Moroni",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.25,
+                    -12.17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Congo",
+                "capital": "Brazzaville",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Congo (Democratic Republic of the)",
+                "capital": "Kinshasa",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Djibouti",
+                "capital": "Djibouti",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43,
+                    11.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Egypt",
+                "capital": "Cairo",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    27
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Equatorial Guinea",
+                "capital": "Malabo",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10,
+                    2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Eritrea",
+                "capital": "Asmara",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39,
+                    15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Ethiopia",
+                "capital": "Addis Ababa",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38,
+                    8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "French Southern Territories",
+                "capital": "Port-aux-Fran�ais",
+                "timezones": "UTC+05:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.17,
+                    -49.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Gabon",
+                "capital": "Libreville",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.75,
+                    -1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Gambia",
+                "capital": "Banjul",
+                "timezones": "UTC+00:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.57,
+                    13.47
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Ghana",
+                "capital": "Accra",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2,
+                    8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Guinea",
+                "capital": "Conakry",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10,
+                    11
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Guinea-Bissau",
+                "capital": "Bissau",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15,
+                    12
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "C�te d'Ivoire",
+                "capital": "Yamoussoukro",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5,
+                    8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Kenya",
+                "capital": "Nairobi",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38,
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Lesotho",
+                "capital": "Maseru",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5,
+                    -29.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Liberia",
+                "capital": "Monrovia",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5,
+                    6.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Libya",
+                "capital": "Tripoli",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17,
+                    25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Madagascar",
+                "capital": "Antananarivo",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47,
+                    -20
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Malawi",
+                "capital": "Lilongwe",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34,
+                    -13.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Mali",
+                "capital": "Bamako",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4,
+                    17
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Mauritania",
+                "capital": "Nouakchott",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -12,
+                    20
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Mauritius",
+                "capital": "Port Louis",
+                "timezones": "UTC+04:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.55,
+                    -20.28
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Mayotte",
+                "capital": "Mamoudzou",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.17,
+                    -12.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Morocco",
+                "capital": "Rabat",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5,
+                    32
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Mozambique",
+                "capital": "Maputo",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35,
+                    -18.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Namibia",
+                "capital": "Windhoek",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17,
+                    -22
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Niger",
+                "capital": "Niamey",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8,
+                    16
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Nigeria",
+                "capital": "Abuja",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "R�union",
+                "capital": "Saint-Denis",
+                "timezones": "UTC+04:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.5,
+                    -21.15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Rwanda",
+                "capital": "Kigali",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    -2
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Saint Helena, Ascension and Tristan da Cunha",
+                "capital": "Jamestown",
+                "timezones": "UTC+00:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7,
+                    -15.95
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Sao Tome and Principe",
+                "capital": "S�o Tom�",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7,
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Senegal",
+                "capital": "Dakar",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14,
+                    14
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Seychelles",
+                "capital": "Victoria",
+                "timezones": "UTC+04:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.67,
+                    -4.58
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Sierra Leone",
+                "capital": "Freetown",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.5,
+                    8.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Somalia",
+                "capital": "Mogadishu",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49,
+                    10
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "South Africa",
+                "capital": "Pretoria",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24,
+                    -29
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "South Sudan",
+                "capital": "Juba",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    7
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Sudan",
+                "capital": "Khartoum",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Swaziland",
+                "capital": "Lobamba",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5,
+                    -26.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Tanzania, United Republic of",
+                "capital": "Dodoma",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35,
+                    -6
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Togo",
+                "capital": "Lom�",
+                "timezones": "UTC",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.16,
+                    8
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Tunisia",
+                "capital": "Tunis",
+                "timezones": "UTC+01:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9,
+                    34
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Uganda",
+                "capital": "Kampala",
+                "timezones": "UTC+03:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32,
+                    1
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Western Sahara",
+                "capital": "El Aai�n",
+                "timezones": "UTC+00:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13,
+                    24.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Zambia",
+                "capital": "Lusaka",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    -15
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "geometry_type": "POINT",
+                "name": "Zimbabwe",
+                "capital": "Harare",
+                "timezones": "UTC+02:00",
+                "": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    -20
+                ]
+            }
+        }
+    ]
+}
