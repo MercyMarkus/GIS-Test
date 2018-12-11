@@ -1,3 +1,48 @@
 #mapid {
     height: 500px;
 }
+
+.UTCminusOne {
+    background-color: #bdd3f4;
+    color: aliceblue
+}
+
+.UTC {
+    background-color: #98b9e2;
+    color: aliceblue
+}
+
+.UTCplusZero {
+    background-color: #79a6d1;
+    color: aliceblue
+}
+
+.UTCplusOne {
+    background-color: #5285af;
+    color: aliceblue
+}
+
+.UTCplusTwo {
+    background-color: #3e5e8c;
+    color: aliceblue
+}
+
+.UTCplusThree {
+    background-color: #234068;
+    color: aliceblue
+}
+
+.UTCplusFour {
+    background-color: #223a56;
+    color: aliceblue
+}
+
+.UTCplusFive {
+    background-color: #081a3a;
+    color: aliceblue
+}
+
+.UTCplusSix {
+    background-color: #6f91c7;
+    color: aliceblue
+}

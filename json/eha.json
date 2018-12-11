@@ -1,1 +1,361 @@
-[{"flag":"https://restcountries.eu/data/dza.svg","name":"Algeria","capital":"Algiers","population":40400000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/ago.svg","name":"Angola","capital":"Luanda","population":25868000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/ben.svg","name":"Benin","capital":"Porto-Novo","population":10653654,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/bwa.svg","name":"Botswana","capital":"Gaborone","population":2141206,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/iot.svg","name":"British Indian Ocean Territory","capital":"Diego Garcia","population":3000,"timezones":["UTC+06:00"]},{"flag":"https://restcountries.eu/data/bfa.svg","name":"Burkina Faso","capital":"Ouagadougou","population":19034397,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/bdi.svg","name":"Burundi","capital":"Bujumbura","population":10114505,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/cmr.svg","name":"Cameroon","capital":"Yaoundé","population":22709892,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/cpv.svg","name":"Cabo Verde","capital":"Praia","population":531239,"timezones":["UTC-01:00"]},{"flag":"https://restcountries.eu/data/caf.svg","name":"Central African Republic","capital":"Bangui","population":4998000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/tcd.svg","name":"Chad","capital":"N'Djamena","population":14497000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/com.svg","name":"Comoros","capital":"Moroni","population":806153,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/cog.svg","name":"Congo","capital":"Brazzaville","population":4741000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/cod.svg","name":"Congo (Democratic Republic of the)","capital":"Kinshasa","population":85026000,"timezones":["UTC+01:00","UTC+02:00"]},{"flag":"https://restcountries.eu/data/dji.svg","name":"Djibouti","capital":"Djibouti","population":900000,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/egy.svg","name":"Egypt","capital":"Cairo","population":91290000,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/gnq.svg","name":"Equatorial Guinea","capital":"Malabo","population":1222442,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/eri.svg","name":"Eritrea","capital":"Asmara","population":5352000,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/eth.svg","name":"Ethiopia","capital":"Addis Ababa","population":92206005,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/atf.svg","name":"French Southern Territories","capital":"Port-aux-Français","population":140,"timezones":["UTC+05:00"]},{"flag":"https://restcountries.eu/data/gab.svg","name":"Gabon","capital":"Libreville","population":1802278,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/gmb.svg","name":"Gambia","capital":"Banjul","population":1882450,"timezones":["UTC+00:00"]},{"flag":"https://restcountries.eu/data/gha.svg","name":"Ghana","capital":"Accra","population":27670174,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/gin.svg","name":"Guinea","capital":"Conakry","population":12947000,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/gnb.svg","name":"Guinea-Bissau","capital":"Bissau","population":1547777,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/civ.svg","name":"Côte d'Ivoire","capital":"Yamoussoukro","population":22671331,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/ken.svg","name":"Kenya","capital":"Nairobi","population":47251000,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/lso.svg","name":"Lesotho","capital":"Maseru","population":1894194,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/lbr.svg","name":"Liberia","capital":"Monrovia","population":4615000,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/lby.svg","name":"Libya","capital":"Tripoli","population":6385000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/mdg.svg","name":"Madagascar","capital":"Antananarivo","population":22434363,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/mwi.svg","name":"Malawi","capital":"Lilongwe","population":16832910,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/mli.svg","name":"Mali","capital":"Bamako","population":18135000,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/mrt.svg","name":"Mauritania","capital":"Nouakchott","population":3718678,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/mus.svg","name":"Mauritius","capital":"Port Louis","population":1262879,"timezones":["UTC+04:00"]},{"flag":"https://restcountries.eu/data/myt.svg","name":"Mayotte","capital":"Mamoudzou","population":226915,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/mar.svg","name":"Morocco","capital":"Rabat","population":33337529,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/moz.svg","name":"Mozambique","capital":"Maputo","population":26423700,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/nam.svg","name":"Namibia","capital":"Windhoek","population":2324388,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/ner.svg","name":"Niger","capital":"Niamey","population":20715000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/nga.svg","name":"Nigeria","capital":"Abuja","population":186988000,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/reu.svg","name":"Réunion","capital":"Saint-Denis","population":840974,"timezones":["UTC+04:00"]},{"flag":"https://restcountries.eu/data/rwa.svg","name":"Rwanda","capital":"Kigali","population":11553188,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/shn.svg","name":"Saint Helena, Ascension and Tristan da Cunha","capital":"Jamestown","population":4255,"timezones":["UTC+00:00"]},{"flag":"https://restcountries.eu/data/stp.svg","name":"Sao Tome and Principe","capital":"São Tomé","population":187356,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/sen.svg","name":"Senegal","capital":"Dakar","population":14799859,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/syc.svg","name":"Seychelles","capital":"Victoria","population":91400,"timezones":["UTC+04:00"]},{"flag":"https://restcountries.eu/data/sle.svg","name":"Sierra Leone","capital":"Freetown","population":7075641,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/som.svg","name":"Somalia","capital":"Mogadishu","population":11079000,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/zaf.svg","name":"South Africa","capital":"Pretoria","population":55653654,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/ssd.svg","name":"South Sudan","capital":"Juba","population":12131000,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/sdn.svg","name":"Sudan","capital":"Khartoum","population":39598700,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/swz.svg","name":"Swaziland","capital":"Lobamba","population":1132657,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/tza.svg","name":"Tanzania, United Republic of","capital":"Dodoma","population":55155000,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/tgo.svg","name":"Togo","capital":"Lomé","population":7143000,"timezones":["UTC"]},{"flag":"https://restcountries.eu/data/tun.svg","name":"Tunisia","capital":"Tunis","population":11154400,"timezones":["UTC+01:00"]},{"flag":"https://restcountries.eu/data/uga.svg","name":"Uganda","capital":"Kampala","population":33860700,"timezones":["UTC+03:00"]},{"flag":"https://restcountries.eu/data/esh.svg","name":"Western Sahara","capital":"El Aaiún","population":510713,"timezones":["UTC+00:00"]},{"flag":"https://restcountries.eu/data/zmb.svg","name":"Zambia","capital":"Lusaka","population":15933883,"timezones":["UTC+02:00"]},{"flag":"https://restcountries.eu/data/zwe.svg","name":"Zimbabwe","capital":"Harare","population":14240168,"timezones":["UTC+02:00"]}]
+[{
+    "flag": "https://restcountries.eu/data/dza.svg",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "population": 40400000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/ago.svg",
+    "name": "Angola",
+    "capital": "Luanda",
+    "population": 25868000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/ben.svg",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "population": 10653654,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/bwa.svg",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "population": 2141206,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/iot.svg",
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "population": 3000,
+    "timezones": ["UTC+06:00"]
+}, {
+    "flag": "https://restcountries.eu/data/bfa.svg",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "population": 19034397,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/bdi.svg",
+    "name": "Burundi",
+    "capital": "Bujumbura",
+    "population": 10114505,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/cmr.svg",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "population": 22709892,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/cpv.svg",
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "population": 531239,
+    "timezones": ["UTC-01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/caf.svg",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "population": 4998000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/tcd.svg",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "population": 14497000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/com.svg",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "population": 806153,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/cog.svg",
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "population": 4741000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/cod.svg",
+    "name": "Congo (Democratic Republic of the)",
+    "capital": "Kinshasa",
+    "population": 85026000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/dji.svg",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "population": 900000,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/egy.svg",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 91290000,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/gnq.svg",
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "population": 1222442,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/eri.svg",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "population": 5352000,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/eth.svg",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "population": 92206005,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/atf.svg",
+    "name": "French Southern Territories",
+    "capital": "Port-aux-Français",
+    "population": 140,
+    "timezones": ["UTC+05:00"]
+}, {
+    "flag": "https://restcountries.eu/data/gab.svg",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "population": 1802278,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/gmb.svg",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "population": 1882450,
+    "timezones": ["UTC+00:00"]
+}, {
+    "flag": "https://restcountries.eu/data/gha.svg",
+    "name": "Ghana",
+    "capital": "Accra",
+    "population": 27670174,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/gin.svg",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "population": 12947000,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/gnb.svg",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "population": 1547777,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/civ.svg",
+    "name": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "population": 22671331,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/ken.svg",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "population": 47251000,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/lso.svg",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "population": 1894194,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/lbr.svg",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "population": 4615000,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/lby.svg",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "population": 6385000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/mdg.svg",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "population": 22434363,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/mwi.svg",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "population": 16832910,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/mli.svg",
+    "name": "Mali",
+    "capital": "Bamako",
+    "population": 18135000,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/mrt.svg",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "population": 3718678,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/mus.svg",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "population": 1262879,
+    "timezones": ["UTC+04:00"]
+}, {
+    "flag": "https://restcountries.eu/data/myt.svg",
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "population": 226915,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/mar.svg",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "population": 33337529,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/moz.svg",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "population": 26423700,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/nam.svg",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "population": 2324388,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/ner.svg",
+    "name": "Niger",
+    "capital": "Niamey",
+    "population": 20715000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/nga.svg",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "population": 186988000,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/reu.svg",
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "population": 840974,
+    "timezones": ["UTC+04:00"]
+}, {
+    "flag": "https://restcountries.eu/data/rwa.svg",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "population": 11553188,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/shn.svg",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "population": 4255,
+    "timezones": ["UTC+00:00"]
+}, {
+    "flag": "https://restcountries.eu/data/stp.svg",
+    "name": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "population": 187356,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/sen.svg",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "population": 14799859,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/syc.svg",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "population": 91400,
+    "timezones": ["UTC+04:00"]
+}, {
+    "flag": "https://restcountries.eu/data/sle.svg",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "population": 7075641,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/som.svg",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "population": 11079000,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/zaf.svg",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": 55653654,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/ssd.svg",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "population": 12131000,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/sdn.svg",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "population": 39598700,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/swz.svg",
+    "name": "Swaziland",
+    "capital": "Lobamba",
+    "population": 1132657,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/tza.svg",
+    "name": "Tanzania, United Republic of",
+    "capital": "Dodoma",
+    "population": 55155000,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/tgo.svg",
+    "name": "Togo",
+    "capital": "Lomé",
+    "population": 7143000,
+    "timezones": ["UTC"]
+}, {
+    "flag": "https://restcountries.eu/data/tun.svg",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "population": 11154400,
+    "timezones": ["UTC+01:00"]
+}, {
+    "flag": "https://restcountries.eu/data/uga.svg",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "population": 33860700,
+    "timezones": ["UTC+03:00"]
+}, {
+    "flag": "https://restcountries.eu/data/esh.svg",
+    "name": "Western Sahara",
+    "capital": "El Aaiún",
+    "population": 510713,
+    "timezones": ["UTC+00:00"]
+}, {
+    "flag": "https://restcountries.eu/data/zmb.svg",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "population": 15933883,
+    "timezones": ["UTC+02:00"]
+}, {
+    "flag": "https://restcountries.eu/data/zwe.svg",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "population": 14240168,
+    "timezones": ["UTC+02:00"]
+}]
